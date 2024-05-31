@@ -1,0 +1,15 @@
+django==5.0.6
+djangorestframework==3.15.1
+celery==5.4.0
+requests==2.32.0
+ujson==5.10.0
+pyyaml==6.0.1
+django-rest-passwordreset==1.4.1
+psycopg2-binary==2.9.9
+django-filter==24.2
+redis==5.0.4
+pytz==2024.1
+pytest==8.2.1
+model-bakery==1.18.0
+django-allauth==0.63.3
+api==0.0.7
